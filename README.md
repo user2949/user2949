@@ -11,7 +11,7 @@ I'm a multi-language programmer with a passion for systems, scripting, and game 
 - **Python / Django** – Automation, scripting, prototyping, web development, and educational tools
 - **Java / JavaScript / TypeScript / HTML** – Web development, Minecraft modding, backend/frontend work
 - **Rust** – Systems programming, CLI tools, safe and concurrent software
-
+❓ While I do not have full-on experience with these programming languages, I am constantly improving my work, most of my work is closed-source for now
 ---
 
 ### 🛠️ Technical Interests & Focus Areas
