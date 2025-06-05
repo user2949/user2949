@@ -8,8 +8,8 @@ I'm a multi-language programmer with a passion for systems, scripting, and game 
 
 - **C++ / C#** – Native development, game engines (e.g., Unity, Unreal)
 - **Lua** – Lightweight scripting, game modding (e.g., Roblox, FiveM)
-- **Python** – Automation, scripting, prototyping, and educational tools
-- **Java / JavaScript / TypeScript / HTML / Django** – Web development, Minecraft modding, backend/frontend work
+- **Python / Django** – Automation, scripting, prototyping, web development, and educational tools
+- **Java / JavaScript / TypeScript / HTML** – Web development, Minecraft modding, backend/frontend work
 - **Rust** – Systems programming, CLI tools, safe and concurrent software
 
 ---
